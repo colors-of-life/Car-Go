@@ -1,0 +1,26 @@
+{
+  "name": "car-go",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DBMS lab project.\r -test--",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colors-of-life/Car-Go.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colors-of-life/Car-Go/issues"
+  },
+  "homepage": "https://github.com/colors-of-life/Car-Go#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
